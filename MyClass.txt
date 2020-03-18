@@ -2,7 +2,7 @@ class MyClass{
 
 	public static void main(String args[]){
 
-		sysout("Hello Git");
+		System.out.println("Hello Git");
 	}
 
 }
