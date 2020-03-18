@@ -1,8 +1,8 @@
 class MyClass{
 
-main(){
+	public static void main(String args[]){
 
-sysout("Hello Git");
-}
+		sysout("Hello Git");
+	}
 
 }
