@@ -1,13 +1,13 @@
 class MyClass{
 
-	void myMymethod(){
-		System.out.println("Hello Git");
+	void myMymethod(String str){
+		System.out.println(str);
 	}
 	
 	public static void main(String args[]){
 
 		MyClass obj = new MyClass();
-		obj.myMethod();
+		obj.myMethod("Hello Git");
 	}
 
 }
