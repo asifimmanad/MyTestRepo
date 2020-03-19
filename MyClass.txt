@@ -1,12 +1,14 @@
 class MyClass{
 
-	static void myMymethod(){
-		System.out.println("Hello Git");
+
+	static void myMymethod(String str){
+		System.out.println(str);
 	}
 	
 	public static void main(String args[]){
 
-		MyClass.myMethod();
+		MyClass.myMethod("Hello Git");
+
 	}
 
 }
