@@ -1,7 +1,7 @@
 class MyClass{
 
 Change1
-CHange2
+CHange2 New
 
 Hello
 	static void myMymethod(String str){
