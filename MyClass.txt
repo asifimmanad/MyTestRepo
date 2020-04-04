@@ -1,6 +1,8 @@
 class MyClass{
 
 
+
+Hello
 	static void myMymethod(String str){
 		System.out.println(str);
 	}
