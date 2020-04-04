@@ -1,6 +1,6 @@
 class MyClass{
 
-
+Change1
 
 Hello
 	static void myMymethod(String str){
