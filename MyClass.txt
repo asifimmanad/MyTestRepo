@@ -1,11 +1,7 @@
 class MyClass{
 
-Change1
-CHange2 New
-
-Hello
 	static void myMymethod(String str){
-		System.out.println(str);
+		System.out.println(str+"Hello");
 	}
 	
 	public static void main(String args[]){
